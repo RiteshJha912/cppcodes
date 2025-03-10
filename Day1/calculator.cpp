@@ -21,7 +21,6 @@ int main()
     cout<<"Enter the two numbers : "<<endl;
     cin>>num1>>num2;
 
-    // cout<<"Choose one of the below options :"<<endl;
     cout << "1. Addition = " << add(num1, num2) << endl;
     cout << "2. Subtraction = " <<subtract(num1,num2)<<endl;
     cout << "3. Division = " << divide(num1,num2)<<endl;
